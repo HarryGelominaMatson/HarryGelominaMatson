@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaboration to other devs and contribute to oss projects
 - 🔭 Currently, I am planning to pursue computer science.
 - 📝 👀 I’m interested in Android Development.
-- 🌱 When I started tinkering, I was already in grade 6 at that time.
+- 🌱 When I started thinkering, I was already in grade 6 at that time.
 
 <!-- CREDITS FOR Matson -->
 ### Tech Stacks 🛠 
