@@ -7,9 +7,15 @@
 </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
+- 🇮🇹 18 y.o student, linuxer and thinkerer.
+- 🗃️ I often work with various oss projects on my main_acc.
+- 👷🏻 a rookie developer.
 - 💻 I am a self taught Android Developer and a Linuxer, btw i use arch!
 - 💞️ I’m looking to collaboration to other devs and contribute to oss projects
 - 🔭 Currently, I am planning to pursue computer science.
+- 🚀 I want to become a system engineer or a software engineer 
+- 💡 I want to create useful projects for my daily use of technology, such as aosp...
 - 📝 👀 I’m interested in Android Development.
 - 🌱 When I started thinkering, I was already in grade 6 at that time.
 
